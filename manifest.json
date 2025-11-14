@@ -1,0 +1,16 @@
+{
+  "domain": "blauberg_vento",
+  "version": "1.0.0",
+  "name": "Blauberg Vento",
+  "documentation": "https://github.com/aglehmann/pyEcovent",
+  "dependencies": [],
+  "codeowners": ["@jordanj-pl"],
+  "config_flow": true,
+  "iot_class": "local_polling",
+  "integration_type": "hub",
+  "config_flow": true,
+  "assets": {
+    "logo": "logo.png",
+    "icon": "icon.png"
+  }
+}
